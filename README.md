@@ -5,7 +5,9 @@ MA (Moving average). Where AR uses its previous predicted values to forecast the
 of values and MA uses the error in the predicted values to predict the next set of values.
 
 
+
 The objective of our work is as follows.
+
 1)Why do countries undergo climate attacks and where are their attacks based ? To find factors like
 temperature change ,change in earth plates etc.. that influence these attacks Through this we’ll try
 to figure out the characteristics of climatic changes.
