@@ -21,3 +21,8 @@ climate attacks.
 
 4)Our final objective is to build the regression model (ARIMA) for climate change and do it’s
 forecasting
+
+
+
+
+Download the html file to view the model
