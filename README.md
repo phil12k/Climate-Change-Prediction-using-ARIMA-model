@@ -8,11 +8,10 @@ of values and MA uses the error in the predicted values to predict the next set 
 
 The objective of our work is as follows.
 
-1)Why do countries undergo climate attacks and where are their attacks based ? To find factors like
-temperature change ,change in earth plates etc.. that influence these attacks Through this we’ll try
+1)To find factors like temperature change ,change in earth plates etc.. that influence these attacks Through this we’ll try
 to figure out the characteristics of climatic changes.
 
-2)An case study of the various climate attacks taking place in India.Which factors are responsible
+2)A case study of the various climate attacks taking place in India.Which factors are responsible
 for these and why certain areas are targeted? To predict future attacks.
 
 3)Predict which country is most likely to be attacked by climate and through how ?This kind of
